@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5495FF</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="white">#fff</color>
+    <color name="color_f0">#F0F0F0</color>
+    <color name="color_f2">#F2F2F2</color>
+
+    <color name="line_color_E9E9E9_divider">#E9E9E9</color>
+    <color name="base_gray_F5F5F5_item_background">#F5F5F5</color>
+    <color name="base_gray_FDFDFE_background">#FDFDFE</color>
+    <color name="text_background">#AAAAAA</color>
+    <color name="text_background_translate">#B0AAAAAA</color>
+    <color name="base_gray_F0F0F0">#F0F0F0</color>
+    <color name="base_gray_F8F9FE">#F8F9FE</color>
+    <color name="base_333333">#333333</color>
+    <color name="text_default">#333333</color>
+
+    <color name="line_color_F6F7FE">#F6F7FE</color>
+    <color name="color_fa">#FAFAFA</color>
+    <color name="transparent_db">#E0DBDBDB</color>
+    <color name="tab_color_false">#9b9b9b</color>
+    <color name="transparent_white">#10FFFFFF</color>
+    <color name="line_color">#EEEEEE</color>
+    <color name="comm_text_white">#fff</color>
+
+    <color name="base_F2F2F2">#f2f2f2</color>
+    <color name="base_F8F8F8">#f8f8f8</color>
+    <color name="base_FFFFFF">#FFFFFF</color>
+
+
+    <color name="base_gray_F0EFF5">#F0EFF5</color>
+    <color name="base_gray_DCDCDC">#DCDCDC</color>
+    <color name="base_gray_DCDCDC_T">#64DCDCDC</color>
+    <color name="base_gray_B5B5B5">#B5B5B5</color>
+    <color name="base_gray_7dB5B5B5">#7DB5B5B5</color>
+    <color name="tab_bottom_normal">#999999</color>
+    <color name="comm_text_normal_color">#838383</color>
+    <color name="grey_hint_color">#A9A9A9</color>
+    <color name="color_69">#999999</color>
+    <color name="color_4d">#4D4D4D</color>
+    <color name="color_53">#53575e</color>
+
+
+    <color name="bar_grey">#393a3e</color>
+    <color name="bar_grey_90">#dd393a3e</color>
+    <color name="image_overlay_false">#20000000</color>
+    <color name="moto_black_222230">#303030</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="image_overlay_true">#80000000</color>
+    <color name="black">#000000</color>
+    <color name="moto_black_000000">#000000</color>
+
+
+
+
+    <color name="moto_green_3FB838">#3FB838</color>
+    <color name="moto_green_5FD859">#5FD859</color>
+
+
+    <color name="blue_text_90B5FC">#90B5FC</color>
+    <color name="blue_5DA7EA">#5DA7EA</color>
+    <color name="base_697A9F">#697A9F</color>
+    <color name="comm_text_selsect_color">#5495cc</color>
+    <color name="moto_blue_5495FF">#5495FF</color>
+    <color name="blue">#7D7DFF</color>
+    <color name="theme_color">#5495FF</color>
+    <color name="blue_text_5495FF">#5495FF</color>
+    <color name="theme_color_selected">#0a47ab</color>
+
+
+
+    <color name="orange_text_FE9937">#FE9937</color>
+    <color name="moto_yellow_FE9732">#FE9732</color>
+    <color name="moto_yellow_FE9732_fe">#feFE9732</color>
+    <color name="color_orange">#E0FF6100</color>
+    <color name="tab_color_true">#FA632D</color>
+    <color name="moto_red_FE3832">#FE3832</color>
+    <color name="moto_red_D01324">#D01324</color>
+
+
+
+
+
+
+</resources>
